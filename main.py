@@ -6,6 +6,7 @@ class Match:
         self.timing = timing
 
 class FlightTable:
+    #test
     def __init__(self):
         self.matches = []
 
